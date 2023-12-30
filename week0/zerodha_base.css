@@ -1,0 +1,19 @@
+.topbar {
+    padding-left: 40px;
+    color: #666;
+    cursor: pointer;
+}
+
+#call {
+    padding: 10px 30px 10px 30px;
+    border-radius: 3px;
+    background-color: #387ed1;
+    color: darkgray;
+    cursor: pointer;
+    font-size: 22px;
+    
+}
+#call:hover {
+    background-color: black;
+    color: #fff ;
+}
